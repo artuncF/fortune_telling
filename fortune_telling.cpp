@@ -1,7 +1,3 @@
-/**
- * Full Name:Furkan Artunç
- */
-
 #include <iostream>
 #include <cstdlib>
 #include <time.h>

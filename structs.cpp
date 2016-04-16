@@ -1,8 +1,3 @@
-/**
- * Full Name:Furkan Artunç
- * ID: 150130048
- * Date: 20/12/2015
- */
 #include <iostream>
 #include <cstdlib>
 #include <stdlib.h>
